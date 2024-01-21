@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" modified="2023-12-27T18:10:36.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FqJpreBrLkLYT9Xt1Iz_" version="22.1.15" type="google">
+  <diagram name="Страница — 1" id="sQHP-WxP_vcm7nysarN5">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-8" value="Запуск гри" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="490" y="230" as="sourcePoint" />
+            <mxPoint x="235" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-11" value="Перехід в кімнату з двома крокодилами" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="7_0K6lyR-R5tj2kHBwHa-10">
+          <mxGeometry x="-0.0719" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-9" value="Замок загадок" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-14" value="Іду на право" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-12" target="7_0K6lyR-R5tj2kHBwHa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-16" value="Іду на ліво" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-12" target="7_0K6lyR-R5tj2kHBwHa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-12" value="Направо&lt;br&gt;Наліво" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-13" target="7_0K6lyR-R5tj2kHBwHa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-13" value="Дракон" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-15" target="7_0K6lyR-R5tj2kHBwHa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-15" value="Відьма" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-18" target="7_0K6lyR-R5tj2kHBwHa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-41" value="Загадка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="7_0K6lyR-R5tj2kHBwHa-40">
+          <mxGeometry x="0.0759" y="3" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-18" value="Очікування загадки" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-22" value="Ні" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-20" target="7_0K6lyR-R5tj2kHBwHa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-20" value="Правильна/Неправильна&lt;br&gt;відповідь" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-26" value="Загадка" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-23" target="7_0K6lyR-R5tj2kHBwHa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-23" value="Очікування загадки" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-28" value="Ні" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-25" target="7_0K6lyR-R5tj2kHBwHa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-30" value="Так" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-25" target="7_0K6lyR-R5tj2kHBwHa-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-25" value="Правильна/Неправильна&lt;br&gt;відповідь" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-27" target="7_0K6lyR-R5tj2kHBwHa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-42" value="Загадка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="7_0K6lyR-R5tj2kHBwHa-33">
+          <mxGeometry x="-0.0769" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-27" value="Очікування загадки 2" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-29" target="7_0K6lyR-R5tj2kHBwHa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-29" value="Вихід із замку" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="815" y="355" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-35" value="Ні" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-32" target="7_0K6lyR-R5tj2kHBwHa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-36" value="Так" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-32" target="7_0K6lyR-R5tj2kHBwHa-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-32" value="Правильна/Неправильна&lt;br&gt;відповідь" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-34" target="7_0K6lyR-R5tj2kHBwHa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-34" value="Дракон з&#39;їв" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_0K6lyR-R5tj2kHBwHa-38" value="Так" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.19;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_0K6lyR-R5tj2kHBwHa-20" target="7_0K6lyR-R5tj2kHBwHa-29">
+          <mxGeometry x="-0.3122" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="799" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
